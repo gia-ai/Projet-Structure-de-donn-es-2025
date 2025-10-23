@@ -1,0 +1,3 @@
+C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/cmake-build-debug/CMakeFiles/Projet_Structure_de_donn_es_2025.dir
+C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir

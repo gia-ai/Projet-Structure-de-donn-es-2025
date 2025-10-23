@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\g_gri\CLionProjects\Projet-Structure-de-donn-es-2025 Select CMakeLists.txt
