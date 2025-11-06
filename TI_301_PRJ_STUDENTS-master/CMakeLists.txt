@@ -4,11 +4,13 @@ project(2526_TI301_PJT C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(TI_301_PJT
-        main.c utils.c hasse.c
-        cellule.h
+        main.c 
+        utils.c 
+        hasse.c
+        cell.h
         hasse.h
-        cellule.c
-        liste.h
-        liste.c
+        cell.c
+        list.h
+        list.c
         tableau.c
         tableau.h)
