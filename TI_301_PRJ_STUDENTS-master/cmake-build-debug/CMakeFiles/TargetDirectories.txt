@@ -1,3 +1,0 @@
-C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/TI_301_PRJ_STUDENTS-master/cmake-build-debug/CMakeFiles/TI_301_PJT.dir
-C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/TI_301_PRJ_STUDENTS-master/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/g_gri/CLionProjects/Projet-Structure-de-donn-es-2025/TI_301_PRJ_STUDENTS-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
