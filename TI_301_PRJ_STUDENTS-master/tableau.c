@@ -28,11 +28,7 @@ t_list * readGraph(const char *filename) {
     }
 
     // definition du nombre de sommet
-    fscanf(file, "%d", &nb);
-    {
-        perror("Could not read number of vertices");
-        exit(EXIT_FAILURE);
-    }
+    fscanf(file, "%d", &nb);    }
 
     //création du tableau de liste
     t_list * tab[nb]={NULL}; // taille fixe + initialisation des pointeur à NULL pour éviter toute erreur
