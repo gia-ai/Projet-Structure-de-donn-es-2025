@@ -1,6 +1,6 @@
 #ifndef __HASSE_H__
 #define __HASSE_H__
-
+/*
 void removeTransitiveLinks(t_link_array *p_link_array);
 
 /**
@@ -10,5 +10,5 @@ void removeTransitiveLinks(t_link_array *p_link_array);
  * @param graph The adjacency list representation of the graph.
  * @return The created link array.
  */
-
+*/
 #endif
