@@ -7,7 +7,9 @@
 
 
 int main() {
-    t_list *tab = readGraph("../data/exemple1_from_chatGPT.txt");
-    displayTablist(&tab);
-    //int n = isGraphMakov(*tablist);
+    t_tableau *tab = readGraph("../TI_301_PRJ_STUDENTS-master/data/exemple_valid_step3.txt");
+    displayTablist(tab);
+    //int n = isGraphMakov(tab);
+    creatGraph(tab);
+
 }

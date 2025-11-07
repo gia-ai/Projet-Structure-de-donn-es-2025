@@ -42,4 +42,3 @@ void displayList(t_list list) {
     }
     printf("\n");
 }
-
